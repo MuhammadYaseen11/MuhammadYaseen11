@@ -1,4 +1,8 @@
+# Hi there! 👋 Welcome to my GitHub profile!
+
 **Muhammad Yaseen's GitHub**
+
+
 Welcome to my GitHub profile! I'm Muhammad Yaseen, a passionate software developer with a strong focus on game development, web development, and AI projects. This space is where I share my coding journey, projects, and contributions.
 
 About Me
@@ -10,12 +14,16 @@ About Me
 
 💼 Software Engineer: Exploring opportunities in the gaming and software development industries to build a career in C++ development with a focus on Unreal Engine 5.
 
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadYaseen11&show_icons=true&theme=dark)
+
 Skills
 Languages: Python, JavaScript (React, Node.js), C++, C#, SQL, PHP
 
 Frameworks & Tools: Unreal Engine 5, React, React Native, Express, Laravel, .NET
 
 Other Skills: AI & Machine Learning, Docker, Kubernetes, Git, GitHub
+
 
 Projects
 Here are some of the main projects that I’ve worked on:
