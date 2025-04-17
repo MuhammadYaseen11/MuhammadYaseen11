@@ -14,8 +14,8 @@ About Me
 
 💼 Software Engineer: Exploring opportunities in the gaming and software development industries to build a career in C++ development with a focus on Unreal Engine 5.
 
-## 📊 GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=MuhammadYaseen11&show_icons=true&theme=dark)
+## 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYaseen11&theme=tokyonight)
 
 
 Skills
