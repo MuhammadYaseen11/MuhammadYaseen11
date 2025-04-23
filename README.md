@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Muhammad Yaseen, a passionate software develop
 # About Me
 🎮 Game Developer: Currently working with Unreal Engine 5 to create immersive games, focusing on both story-driven experiences and gameplay mechanics.
 
-🌐 Web Developer: Experienced in creating React apps and full-stack development using technologies like Node.js, Express, PHP, and Laravel.
+🌐 Web Developer: Experienced in creating React apps, Flutter, and full-stack development using technologies like Node.js, Express, PHP, and Laravel.
 
 🤖 AI Enthusiast: Passionate about building intelligent systems, from chatbots to advanced algorithms. Currently experimenting with integrating Dialogflow and Wit.ai for real-time AI applications.
 
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm Muhammad Yaseen, a passionate software develop
 
 
 # Skills
-Languages: Python, JavaScript (React, Node.js), C++, C#, SQL, PHP
+Languages: Python, JavaScript (React, Node.js), C++, C#, SQL, PHP, Dart (Flutter)
 
 Frameworks & Tools: Unreal Engine 5, React, React Native, Express, Laravel, .NET
 
