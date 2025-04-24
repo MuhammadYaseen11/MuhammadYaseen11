@@ -1,9 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub profile!
 
-**Muhammad Yaseen's GitHub**
-
-
-Welcome to my GitHub profile! I'm Muhammad Yaseen, a passionate software developer with a strong focus on game development, web development, and AI projects. This space is where I share my coding journey, projects, and contributions.
+I'm Muhammad Yaseen, a passionate software developer with a strong focus on game development, web development, and AI projects. This space is where I share my coding journey, projects, and contributions.
 
 # About Me
 🎮 Game Developer: Currently working with Unreal Engine 5 to create immersive games, focusing on both story-driven experiences and gameplay mechanics.
