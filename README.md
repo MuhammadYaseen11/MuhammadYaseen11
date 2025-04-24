@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm Muhammad Yaseen, a passionate software develop
 
 🤖 AI Enthusiast: Passionate about building intelligent systems, from chatbots to advanced algorithms. Currently experimenting with integrating Dialogflow and Wit.ai for real-time AI applications.
 
-💼 Software Engineer: Exploring opportunities in the gaming and software development industries to build a career in C++ development with a focus on Unreal Engine 5.
+💼 Software Engineer: Exploring opportunities in the gaming and software development industries to build a career in C++, Python, React, and Flutter development.
 
 ## 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYaseen11&theme=tokyonight)
